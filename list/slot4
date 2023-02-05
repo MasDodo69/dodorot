@@ -1,0 +1,17 @@
+-- slot2
+farm = {
+"BARONG11SAI",
+"BARONG12SAI",
+"BARONG13SAI",
+"BARONG14SAI",
+"BARONG15SAI",
+"BARONG16SAI",
+"BARONG17SAI",
+"BARONG18SAI",
+"BARONG19SAI",
+"BARONG20SAI"
+}
+
+lisensi = "dodokebal69"
+
+webhook_url = "https://discord.com/api/webhooks/1057997368315891752/KA20htK9GkWkC4mtMebCKvbB2EPZQb8wjsqPnLTuJS3IzADdmAsfFmjiXIkgOwRNVeGq"
