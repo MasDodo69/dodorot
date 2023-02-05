@@ -82,7 +82,7 @@ CONFIG.captcha_setting = {
     password_growid = EXTERN.password_bot
 }
 
-CONFIG.use_payy_webhook = false
+CONFIG.use_payy_webhook = true
 CONFIG.use_powershell_webhook = false
 
 CONFIG.Trash_list ={5040,5042,5044,5032,5034,5036,5038,5024,5026,5028,5030,7162,7164,5742,5744,5746,5748}
