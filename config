@@ -77,6 +77,12 @@ CONFIG.Custom_delay = {
     delay_upgrade_backpack = 4, -- second
 }
 
+CONFIG.notification_history_worldlist = {
+    use_feature = true,
+    url_webhook = "https://discord.com/api/webhooks/1071422554515972226/6YZDQL5yyDuLDMca4IN08mIVgMnVFW3aDldReYVZQPlpaPuLMWAHspzTnrAHV4G7eTci",
+    username = "mybot"
+}
+
 CONFIG.captcha_setting = {
     use_feature = true,
     password_growid = EXTERN.password_bot
