@@ -61,20 +61,20 @@ CONFIG.auto_wear_pickaxe = {
 
 CONFIG.Custom_delay = {
     use_feature = true,
-    delay_break = 100, -- millisecond
-    delay_put = 150, -- millisecond
-    delay_harvest = 70, -- millisecond
-    delay_plant = 50, -- millisecond
-    delay_findpath_harvest = 200, -- millisecond
-    delay_findpath_plant = 200, -- millisecond
-    delay_findpath_break = 300, -- millisecond
-    delay_findpath_drop = 500, -- millisecond
-    delay_findpath_other = 400, -- millisecond
-    delay_drop = 4, -- second
-    delay_trash = 4, -- second
+    delay_break = 160, -- millisecond
+    delay_put = 110, -- millisecond
+    delay_harvest = 40, -- millisecond
+    delay_plant = 40, -- millisecond
+    delay_findpath_harvest = 100, -- millisecond
+    delay_findpath_plant = 100, -- millisecond
+    delay_findpath_break = 200, -- millisecond
+    delay_findpath_drop = 250, -- millisecond
+    delay_findpath_other = 300, -- millisecond
+    delay_drop = 2, -- second
+    delay_trash = 2, -- second
     delay_warp = 10, -- second
-    delay_buypack = 10, -- second
-    delay_upgrade_backpack = 10, -- second
+    delay_buypack = 3, -- second
+    delay_upgrade_backpack = 4, -- second
 }
 
 CONFIG.captcha_setting = {
