@@ -1,0 +1,17 @@
+-- slot2
+farm = {
+"TERMI1NAL",
+"TERMI2NAL",
+"TERMI3NAL",
+"TERMI4NAL",
+"TERMI5NAL",
+"TERMI6NAL",
+"TERMI7NAL",
+"TERMI8NAL",
+"TERMI9NAL",
+"TERMI10NAL"
+}
+
+lisensi = "dodolelah69"
+
+webhook_url = "https://discord.com/api/webhooks/1057997368315891752/KA20htK9GkWkC4mtMebCKvbB2EPZQb8wjsqPnLTuJS3IzADdmAsfFmjiXIkgOwRNVeGq"
