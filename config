@@ -32,7 +32,7 @@ CONFIG = {
     },
     Other_setting = {
         repeat_world = true,
-        url_webhook = webhook_url,
+        url_webhook = https://discord.com/api/webhooks/1072864350542508142/NuYu0-U3lhbgPeB7M2O5TAjs52yEJPXV68LrSYFgj8IoVv9XsLL_6_2ciGtdd7aauHgO,
         short_webhook = true,
         disable_webhook = false
     },
@@ -79,8 +79,18 @@ CONFIG.Custom_delay = {
 
 CONFIG.notification_history_worldlist = {
     use_feature = true,
-    url_webhook = "https://discord.com/api/webhooks/1071422554515972226/6YZDQL5yyDuLDMca4IN08mIVgMnVFW3aDldReYVZQPlpaPuLMWAHspzTnrAHV4G7eTci",
+    url_webhook = "https://discord.com/api/webhooks/1072864968711614534/SNwG1eaRo_8873QN3UOM1nmtnVcUClVgUiUsQz3xMNI2dxqCzt0d-0TngEAkp_j3Grnr",
     username = "mybot"
+}
+
+CONFIG.notification = {
+    use_feature = true,
+    url_webhook = "https://discord.com/api/webhooks/1066225329099776050/q5QxpvcLSaoep2Bw92P_Hexv6FGgHxcwkz7Utr6A2N8Sp0d6ZwTrhdCCZuu6fJa8nRGP",
+    username = "BWCOY", -- username bot webhook
+    schedule = {
+        use_schedule = true,
+        delay = 60 -- every 60 minute send status of bot
+    }
 }
 
 CONFIG.captcha_setting = {
