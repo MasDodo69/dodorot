@@ -4,7 +4,7 @@ CONFIG = {
     Main_setting = {
         License = lisensi,
         ItemID = 4584,
-        Pack = "world_lock_10_pack"
+        Pack = "valentines"
     },
     Farm_setting = {
         farm_world = farm,
@@ -37,7 +37,7 @@ CONFIG = {
         disable_webhook = false
     },
     Custom_gems_buypack = {
-        false, 20000 
+        false, 7500
     },
     Avoid_nuke = {
         use_feature = false,
@@ -57,6 +57,13 @@ CONFIG.auto_wear_pickaxe = {
     use_feature = true,
     storage_pickaxe = "DIDOSURG711",
     storage_pickaxe_id = EXTERN.id_door
+}
+CONFIG.drop_item = {
+    use_feature = true,
+    list_item = {9346,5662,5664},
+    max_item_to_drop = 180,
+    storage = "DIDOSURG711",
+    storage_id = EXTERN.id_door
 }
 
 CONFIG.Custom_delay = {
