@@ -84,6 +84,8 @@ CONFIG.Custom_delay = {
     delay_upgrade_backpack = 4, -- second
 }
 
+CONFIG.START_FARM_FROM = 5
+
 CONFIG.notification_history_worldlist = {
     use_feature = true,
     url_webhook = "https://discord.com/api/webhooks/1072864968711614534/SNwG1eaRo_8873QN3UOM1nmtnVcUClVgUiUsQz3xMNI2dxqCzt0d-0TngEAkp_j3Grnr",
