@@ -60,7 +60,7 @@ CONFIG.auto_wear_pickaxe = {
 }
 CONFIG.drop_item = {
     use_feature = true,
-    list_item = {9346,5662,5664},
+    list_item = {9346,5662,5664,9398},
     max_item_to_drop = 100,
     storage = "DIDOSURG711",
     storage_id = EXTERN.id_door
