@@ -4,7 +4,7 @@ CONFIG = {
     Main_setting = {
         License = lisensi,
         ItemID = 4584,
-        Pack = "valentines"
+        Pack = "world_lock_10_pack"
     },
     Farm_setting = {
         farm_world = farm,
@@ -37,7 +37,7 @@ CONFIG = {
         disable_webhook = true
     },
     Custom_gems_buypack = {
-        true, 7500
+        true, 20000
     },
     Avoid_nuke = {
         use_feature = false,
