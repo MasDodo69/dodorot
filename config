@@ -32,7 +32,7 @@ CONFIG = {
     },
     Other_setting = {
         repeat_world = true,
-        url_webhook = "https://discord.com/api/webhooks/1072864350542508142/NuYu0-U3lhbgPeB7M2O5TAjs52yEJPXV68LrSYFgj8IoVv9XsLL_6_2ciGtdd7aauHgO",
+        url_webhook = EXTERN.webhook_url
         short_webhook = true,
         disable_webhook = true
     },
@@ -94,13 +94,12 @@ CONFIG.notification_history_worldlist = {
 
 CONFIG.notification = {
     use_feature = true,
-    url_webhook = "https://discord.com/api/webhooks/1066225329099776050/q5QxpvcLSaoep2Bw92P_Hexv6FGgHxcwkz7Utr6A2N8Sp0d6ZwTrhdCCZuu6fJa8nRGP",
+    url_webhook = EXTERN.webhook_url_notif
     username = "BWCOY", -- username bot webhook
     schedule = {
         use_schedule = true,
         delay = 60 -- every 60 minute send status of bot
     }
-}
 
 CONFIG.captcha_setting = {
     use_feature = true,
