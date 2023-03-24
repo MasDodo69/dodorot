@@ -1,6 +1,5 @@
 -- slot2
 farm = {
-"BARONG11SAI",
 "BARONG12SAI",
 "BARONG13SAI",
 "BARONG14SAI",
@@ -9,7 +8,8 @@ farm = {
 "BARONG17SAI",
 "BARONG18SAI",
 "BARONG19SAI",
-"BARONG20SAI"
+"BARONG20SAI",
+"FJIHIHHS"
 }
 
 lisensi = "dodolelah69"
